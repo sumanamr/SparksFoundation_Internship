@@ -1,0 +1,25 @@
+.contact{
+  
+    background-color: lightpink;
+    padding: 100px;
+    margin-left : 200px;
+    display: inline-block;
+}
+.contacts
+{
+    padding: 100px;
+    background-color: brown;
+    display: inline-block;
+}
+.contactus
+{
+    margin:auto;
+    background-color: cornsilk;
+}
+.img
+{
+    margin-left : 500px;
+    margin-top: 30px;
+    padding:20px;
+   
+}
